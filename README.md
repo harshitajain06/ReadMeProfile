@@ -157,6 +157,8 @@
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
+<div align="center">
 <a href="#" target="_blank">
-  <img align="center" src="https://github.com/harshitajain06/ReadMeProfile/blob/main/Good-vs-Good-Enough.png" alt="trungquandev-official" />
+  <img  src="https://github.com/harshitajain06/ReadMeProfile/blob/main/Good-vs-Good-Enough.png" height="200" alt="trungquandev-official" />
 </a>
+  </div>
