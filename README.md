@@ -1,6 +1,13 @@
 <div align="center">
-<h1 align="center">Hi 👋, I'm Harshita Jain</h1>
+<h1 align="center">Hi 👋, I'm Harshita Jain😊</h1>
 <div>
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><br>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=A+Software+Engineer!👨‍💻;Nice+to+meet+you+👌+💯&center=true&size=30">
+  </a>
+</h1>
+<hr>
+<br />
 
 
 [![stars - badge-generator](https://img.shields.io/github/stars/MichaelCurrin/badge-generator?style=social)](https://github.com/MichaelCurrin/badge-generator)
@@ -10,7 +17,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="center" width="400" src="https://github.com/harshitajain06/ReadMeProfile/blob/main/yogocat_animation.gif" alt="coding"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitajain06&label=Profile%20views&color=0e75b6&style=flat" alt="harshitajain06" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=harshitajain06&label=Profile%20views&color=0e75b6&style=flat" alt="harshitajain06" /> </p>
 
   </div>
 
@@ -139,6 +146,6 @@
 <br>
 <div align="center">
 <a href="#" target="_blank">
-  <img  src="https://github.com/harshitajain06/ReadMeProfile/blob/main/ae20c69e281d544117ff223a88ae4b2c.gif" width="800" height="200" alt="trungquandev-official" />
+  <img  src="https://github.com/harshitajain06/ReadMeProfile/blob/main/typography-quote-motivational-wallpaper-preview.jpg" width="600" height="200" alt="trungquandev-official" />
 </a>
   </div>
