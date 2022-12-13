@@ -10,8 +10,8 @@
 <br />
 
 
-[![stars - badge-generator](https://img.shields.io/github/stars/MichaelCurrin/badge-generator?style=social)](https://github.com/MichaelCurrin/badge-generator)
-[![forks - badge-generator](https://img.shields.io/github/forks/MichaelCurrin/badge-generator?style=social)](https://github.com/MichaelCurrin/badge-generator)
+[![stars - badge-generator](https://img.shields.io/github/stars/harshitajain06/PortfolioPage?style=social)](https://github.com/harshitajain06/PortfolioPage)
+[![forks - badge-generator](https://img.shields.io/github/forks/harshitajain06/PortfolioPage?style=social)](https://github.comharshitajain06/PortfolioPage)
 
 </div>
 <h3 align="center">A passionate frontend developer from India</h3>
